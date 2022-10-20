@@ -1,5 +1,5 @@
 ﻿// Daniel Decoito 
-// 9-8-2022
+// 10-20-2022
 // Mini Challenge 3 "Ask a question"
 // Create a program where you ask the user a question and use thier response in a phrase
 // Peer Reviewed Elizar Garcia. Ran great, worked as intended.
